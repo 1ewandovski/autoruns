@@ -20,7 +20,7 @@
 
 # 作者
 
-姚逸洲，学号517021910515，邮箱 yaoyizhou0620@sjtu.edu.cn
+姚逸洲 邮箱 yaoyizhou0620@sjtu.edu.cn
 
 
 
